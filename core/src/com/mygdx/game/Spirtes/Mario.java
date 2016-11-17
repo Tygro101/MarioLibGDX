@@ -75,8 +75,7 @@ public class Mario extends Sprite {
         //super(screen.getAtlas().findRegion("little_mario"));
     }
 
-    private TextureRegion
-            (float dt){
+    private TextureRegion getFrame(float dt){
         currentState = getState();
         TextureRegion region;
         switch (currentState){

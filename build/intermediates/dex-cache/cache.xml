@@ -2,11 +2,120 @@
 <items version="2" >
 
     <item
+        is-multidex="true"
+        jar="C:\Users\Ran\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.7.2\275914cb71c76e4d3ce1e4037cf8a9cce8f7c842\gdx-box2d-1.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="275914cb71c76e4d3ce1e4037cf8a9cce8f7c842">
+        <dex dex="C:\Users\Ran\GitHub\MarioLibGDX\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-box2d-1.7.2_106eb7340a80296b5bb71c6f1f363bc7d5831655\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ran\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.7.2\2bd5374e7a6b9ea051ad27bbcf3bdbc3313bdac3\gdx-freetype-1.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2bd5374e7a6b9ea051ad27bbcf3bdbc3313bdac3">
+        <dex dex="C:\Users\Ran\GitHub\MarioLibGDX\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-freetype-1.7.2_28d6e9ecb75b5cf5a842d6bee75ab319d7dae3f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ran\.gradle\caches\modules-2\files-2.1\com.badlogicgames.ashley\ashley\1.7.0\a7c4083c0a42027a3c03ba7ccecef6cbe1c5f0a4\ashley-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a7c4083c0a42027a3c03ba7ccecef6cbe1c5f0a4">
+        <dex dex="C:\Users\Ran\GitHub\MarioLibGDX\android\build\intermediates\transforms\dex\debug\folders\1000\10\ashley-1.7.0_8c03b7bab42b7d323fbf7e98ae0634db0fd5e1e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ran\.gradle\caches\modules-2\files-2.1\com.badlogicgames.box2dlights\box2dlights\1.4\3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd\box2dlights-1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd">
+        <dex dex="C:\Users\Ran\GitHub\MarioLibGDX\android\build\intermediates\transforms\dex\debug\folders\1000\10\box2dlights-1.4_144ee1b0f96194cf041c70dbc31e258d022ca411\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ran\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.7.2\5211971f79423cda216422e62c1ec8684603c3b2\gdx-backend-android-1.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5211971f79423cda216422e62c1ec8684603c3b2">
+        <dex dex="C:\Users\Ran\GitHub\MarioLibGDX\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-backend-android-1.7.2_b85c0df34032dc31e1a50a01ac97c4aae72eb244\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ran\GitHub\MarioLibGDX\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="21274d8c46877e9737b063f9a82ee42950afc3c0">
+        <dex dex="C:\Users\Ran\GitHub\MarioLibGDX\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e195f986b859cf8a4b5f3c007de1fceb4ecc9984\classes.dex" />
+    </item>
+    <item
         jar="C:\Users\Ran\Android\Workspace\game\core\build\libs\core-1.0.jar"
         jumboMode="false"
+        optimize="true"
         revision="23.0.2"
         sha1="b144c97e8995695069a0f6370f48614f921b8b24">
         <dex dex="C:\Users\Ran\Android\Workspace\game\android\build\intermediates\pre-dexed\debug\core-1.0-32d431458154fbd87bfaec5e06499e2f1084cfeb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ran\GitHub\MarioLibGDX\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c7f823e18794593f27d50de7fe0706fda95361d">
+        <dex dex="C:\Users\Ran\GitHub\MarioLibGDX\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6732e3725225c18d6083a23d8cf978b8349e3983\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ran\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.7.2\ccf86a454b5ce7029c243da22f432f2edca0a34e\gdx-1.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccf86a454b5ce7029c243da22f432f2edca0a34e">
+        <dex dex="C:\Users\Ran\GitHub\MarioLibGDX\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-1.7.2_9d852e9726b88391419b8ffaa529251d30265750\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ran\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-ai\1.7.0\e74a876dbaabe28abe8160d677b0a67b61c7dfac\gdx-ai-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e74a876dbaabe28abe8160d677b0a67b61c7dfac">
+        <dex dex="C:\Users\Ran\GitHub\MarioLibGDX\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-ai-1.7.0_9c3bdf0d2f1e45ea20a2c0af20533ccbc26755be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ran\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers-android\1.7.2\7bce778e8f44e7e00de43865a5d13ec7c3066786\gdx-controllers-android-1.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7bce778e8f44e7e00de43865a5d13ec7c3066786">
+        <dex dex="C:\Users\Ran\GitHub\MarioLibGDX\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-controllers-android-1.7.2_f5c5009aeb1d3e486d9e8c3675b25c4b9ebfed43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ran\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-bullet\1.7.2\d723b328866429dc14055af715dad5f03d28fc4c\gdx-bullet-1.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d723b328866429dc14055af715dad5f03d28fc4c">
+        <dex dex="C:\Users\Ran\GitHub\MarioLibGDX\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-bullet-1.7.2_0e7af8d22b4f012905b95bf46f7ae96e7862e604\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ran\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers\1.7.2\70f7a4d200c0a47b5cab0c5521fac9d034167cc5\gdx-controllers-1.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="70f7a4d200c0a47b5cab0c5521fac9d034167cc5">
+        <dex dex="C:\Users\Ran\GitHub\MarioLibGDX\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-controllers-1.7.2_de78ce6e63a2c6d13b9ba9f02ed4541d62f8d414\classes.dex" />
     </item>
 
 </items>
