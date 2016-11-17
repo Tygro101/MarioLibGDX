@@ -1,2 +1,0 @@
-# MarioLibGDX
-mario game example
